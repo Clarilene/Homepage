@@ -1,0 +1,79 @@
+---
+title: "Clarilene"
+output:
+  flexdashboard::flex_dashboard:
+    vertical_layout: scroll
+  
+
+---
+
+# Meu perfil
+![](meuperfil.jpg){width=10%} 
+**Nome** Clarilene Pereira  
+**Idade** 23  
+**Sexo** Feminino  
+**Nascionalidade** Brasileira  
+**Endereço** Tv Manuel cayres, 211, pajuçara  
+**Email** claryalmeida1@gmail.com  
+**Telefone** (93)991857567  
+**Escolaridade** Ensino Superior  
+**Curso** Engenharia de Aquicultura  
+
+Como profissional, possuo habilidades técnicas sólidas que se traduzem em resultados tangíveis. Minha experiência abrange o desenvolvimento web, utilizando linguagens como HTML, CSS e JavaScript para criar interfaces intuitivas e responsivas. Além disso, possuo conhecimento em programação, com proficiência em Python e Java, permitindo-me abordar desafios de maneira lógica e eficaz.
+
+# Curriculo Lattes
+Sou profissional comprometido e apaixonado por minha área de atuação. Com habilidades sólidas em desenvolvimento web e programação, destaco-me não apenas pela expertise técnica, mas também pela capacidade de comunicação efetiva e trabalho em equipe, habilidades aprimoradas por minha paixão por esportes. Minha afinidade pela biologia não só enriquece minha abordagem analítica, mas também inspira uma criatividade única na resolução de problemas. Essa combinação de habilidades técnicas e pessoais reflete meu comprometimento com a excelência em projetos desafiadores e inovadores.
+
+Atenciosamente,
+
+Clarilene Pereira
+
+[Currículo Lattes](https://www.lattes.cnpq.br/)
+
+# Redes Sociais
+Minhas redes sociais
+
+[Facebook](https://pt-br.facebook.com/)
+![](https://visitpo.fr/wp-content/uploads/Logo-Facebook-png.png){Width=5%}  
+[Instagram](https://www.instagram.com/accounts/login/)
+![](https://img.freepik.com/vetores-premium/logotipo-de-midia-social-gradiente-roxo_197792-1883.jpg){Width=5%}  
+[Twitter](https://twitter.com/i/flow/login)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScwBiAlPUs66l7-REgATnFTZaK3mwDCNr-3A&usqp=CAU){Width=5%}  
+
+# Sobre
+**Equipe:**    
+**Orientador:** Carlos Zarzar  
+**Monitores:** Daniel Pinto, Gabriel Rodrigues, Luan Patrick    
+**Discente:** Clarilene Pereira  
+
+**Objetivos**
+O curso tem o intuito de ensinar os discentes da universidade Federal do Oeste do Pará (ufopa) *campus* Monte Alegre a linguagem de programas. Eles irão aprender a utilizar os programas de versionamento Git e Github, construir roteiros no RMarkdown, criar Dashboards Interativo e aplicativos no R shiny.
+Esse projeto servirá para ajudar em disciplinas que envolveram a utilização do programa R, em trabalhos acadêmicos e no enrequicemento em programação muito exigido no mercado de trabalho.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Currículo Lattes 
